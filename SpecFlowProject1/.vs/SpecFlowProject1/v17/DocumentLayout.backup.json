@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|c:\\users\\cheth\\source\\repos\\specflowproject1\\stepdefinitions\\feature1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|solutionrelative:stepdefinitions\\feature1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|c:\\users\\cheth\\source\\repos\\specflowproject1\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|solutionrelative:features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|c:\\users\\cheth\\source\\repos\\specflowproject1\\data\\textfile1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|solutionrelative:data\\textfile1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|c:\\users\\cheth\\source\\repos\\specflowproject1\\specflowproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|solutionrelative:specflowproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|c:\\users\\cheth\\source\\repos\\specflowproject1\\data\\textfile1.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|solutionrelative:data\\textfile1.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|c:\\users\\cheth\\source\\repos\\specflowproject1\\helper\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3840AEF0-C2F6-467C-A90E-8D42F10B7472}|SpecFlowProject1.csproj|solutionrelative:helper\\helpermethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextFile1.json",
+              "DocumentMoniker": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\data\\TextFile1.json",
+              "RelativeDocumentMoniker": "data\\TextFile1.json",
+              "ToolTip": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\data\\TextFile1.json",
+              "RelativeToolTip": "data\\TextFile1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T08:22:18.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feature1StepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\StepDefinitions\\Feature1StepDefinitions.cs",
+              "RelativeDocumentMoniker": "StepDefinitions\\Feature1StepDefinitions.cs",
+              "ToolTip": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\StepDefinitions\\Feature1StepDefinitions.cs",
+              "RelativeToolTip": "StepDefinitions\\Feature1StepDefinitions.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAewF8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:26:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpecFlowProject1",
+              "DocumentMoniker": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\SpecFlowProject1.csproj",
+              "RelativeDocumentMoniker": "SpecFlowProject1.csproj",
+              "ToolTip": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\SpecFlowProject1.csproj",
+              "RelativeToolTip": "SpecFlowProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T06:49:04.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Feature1.feature",
+              "DocumentMoniker": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\Features\\Feature1.feature",
+              "RelativeDocumentMoniker": "Features\\Feature1.feature",
+              "ToolTip": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\Features\\Feature1.feature",
+              "RelativeToolTip": "Features\\Feature1.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-12-03T06:11:14.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextFile1.json",
+              "DocumentMoniker": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\data\\TextFile1.json",
+              "RelativeDocumentMoniker": "data\\TextFile1.json",
+              "ToolTip": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\data\\TextFile1.json",
+              "RelativeToolTip": "data\\TextFile1.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T06:49:47.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "helpermethods.cs",
+              "DocumentMoniker": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\helper\\helpermethods.cs",
+              "RelativeDocumentMoniker": "helper\\helpermethods.cs",
+              "ToolTip": "C:\\Users\\cheth\\source\\repos\\SpecFlowProject1\\helper\\helpermethods.cs",
+              "RelativeToolTip": "helper\\helpermethods.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T06:52:58.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
